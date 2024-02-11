@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/stevenlegere/Documents/Development/Repositories/PracticeCode/stevesPlayground/CsIfStatements/CsharpProjects/TestProject/TestProject.csproj": {}
+    "/Users/stevenlegere/Documents/Development/Repositories/PracticeCode/stevesPlayground/CsIfStatements/CsIfStatements/TestProject.csproj": {}
   },
   "projects": {
-    "/Users/stevenlegere/Documents/Development/Repositories/PracticeCode/stevesPlayground/CsIfStatements/CsharpProjects/TestProject/TestProject.csproj": {
+    "/Users/stevenlegere/Documents/Development/Repositories/PracticeCode/stevesPlayground/CsIfStatements/CsIfStatements/TestProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/stevenlegere/Documents/Development/Repositories/PracticeCode/stevesPlayground/CsIfStatements/CsharpProjects/TestProject/TestProject.csproj",
+        "projectUniqueName": "/Users/stevenlegere/Documents/Development/Repositories/PracticeCode/stevesPlayground/CsIfStatements/CsIfStatements/TestProject.csproj",
         "projectName": "TestProject",
-        "projectPath": "/Users/stevenlegere/Documents/Development/Repositories/PracticeCode/stevesPlayground/CsIfStatements/CsharpProjects/TestProject/TestProject.csproj",
+        "projectPath": "/Users/stevenlegere/Documents/Development/Repositories/PracticeCode/stevesPlayground/CsIfStatements/CsIfStatements/TestProject.csproj",
         "packagesPath": "/Users/stevenlegere/.nuget/packages/",
-        "outputPath": "/Users/stevenlegere/Documents/Development/Repositories/PracticeCode/stevesPlayground/CsIfStatements/CsharpProjects/TestProject/obj/",
+        "outputPath": "/Users/stevenlegere/Documents/Development/Repositories/PracticeCode/stevesPlayground/CsIfStatements/CsIfStatements/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/stevenlegere/.nuget/NuGet/NuGet.Config"

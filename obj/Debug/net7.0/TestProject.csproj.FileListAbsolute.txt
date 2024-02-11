@@ -1,0 +1,14 @@
+/Users/stevenlegere/Documents/Development/Repositories/PracticeCode/stevesPlayground/CsIfStatements/CsIfStatements/bin/Debug/net7.0/TestProject
+/Users/stevenlegere/Documents/Development/Repositories/PracticeCode/stevesPlayground/CsIfStatements/CsIfStatements/bin/Debug/net7.0/TestProject.deps.json
+/Users/stevenlegere/Documents/Development/Repositories/PracticeCode/stevesPlayground/CsIfStatements/CsIfStatements/bin/Debug/net7.0/TestProject.runtimeconfig.json
+/Users/stevenlegere/Documents/Development/Repositories/PracticeCode/stevesPlayground/CsIfStatements/CsIfStatements/bin/Debug/net7.0/TestProject.dll
+/Users/stevenlegere/Documents/Development/Repositories/PracticeCode/stevesPlayground/CsIfStatements/CsIfStatements/bin/Debug/net7.0/TestProject.pdb
+/Users/stevenlegere/Documents/Development/Repositories/PracticeCode/stevesPlayground/CsIfStatements/CsIfStatements/obj/Debug/net7.0/TestProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stevenlegere/Documents/Development/Repositories/PracticeCode/stevesPlayground/CsIfStatements/CsIfStatements/obj/Debug/net7.0/TestProject.AssemblyInfoInputs.cache
+/Users/stevenlegere/Documents/Development/Repositories/PracticeCode/stevesPlayground/CsIfStatements/CsIfStatements/obj/Debug/net7.0/TestProject.AssemblyInfo.cs
+/Users/stevenlegere/Documents/Development/Repositories/PracticeCode/stevesPlayground/CsIfStatements/CsIfStatements/obj/Debug/net7.0/TestProject.csproj.CoreCompileInputs.cache
+/Users/stevenlegere/Documents/Development/Repositories/PracticeCode/stevesPlayground/CsIfStatements/CsIfStatements/obj/Debug/net7.0/TestProject.dll
+/Users/stevenlegere/Documents/Development/Repositories/PracticeCode/stevesPlayground/CsIfStatements/CsIfStatements/obj/Debug/net7.0/refint/TestProject.dll
+/Users/stevenlegere/Documents/Development/Repositories/PracticeCode/stevesPlayground/CsIfStatements/CsIfStatements/obj/Debug/net7.0/TestProject.pdb
+/Users/stevenlegere/Documents/Development/Repositories/PracticeCode/stevesPlayground/CsIfStatements/CsIfStatements/obj/Debug/net7.0/TestProject.genruntimeconfig.cache
+/Users/stevenlegere/Documents/Development/Repositories/PracticeCode/stevesPlayground/CsIfStatements/CsIfStatements/obj/Debug/net7.0/ref/TestProject.dll
