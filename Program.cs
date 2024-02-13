@@ -12,96 +12,13 @@ int roll3 = dice.Next(1, 7);
 // sum the three dice rolls and save the value into an integer variable named total
 int total = roll1 + roll2 + roll3;
 
-// roll1 = 6;
-// roll2 = 6;
-// roll3 = 6;
+roll1 = 2;
+roll2 = 1;
+roll3 = 1;
 // use the WriteLine() method to display the three values using string interpolation
 Console.WriteLine($"Dice roll: {roll1} + {roll2} + {roll3} = {total}");
 
-// Add an if statement to display different messages based on the value of the total variable
-// () is the condition which is a boolean expression
-// if (total > 14)
-//         // {} a code block
-// {
-//     Console.WriteLine("You win!");
-// }
-
-// if (total < 15)
-// {
-//     Console.WriteLine("Sorry, you lose.");
-// }
-
-// Add another if statement to implement the doubles bonus
-// implement the rule: "If any two dice you roll result in the same value, you get two bonus points for rolling doubles"
-// if ((roll1 == roll2) || (roll2 == roll3) || (roll1 == roll3))
-// {
-//     Console.WriteLine("You rolled doubles! +2 bonus to total!");
-//     total += 2;
-// }
-//     // To improve the readability of your code, update the second if statement as follows
-// if (total >= 15)
-//         // {} a code block
-// {
-//     Console.WriteLine("You win!");
-// }
-
-// if (total < 15)
-// {
-//     Console.WriteLine("Sorry, you lose.");
-// }
-
-// Add another if statement to implement the triples bonus
-
-
-// if ((roll1 == roll2) || (roll2 == roll3) || (roll1 == roll3))
-// {
-//     Console.WriteLine("You rolled doubles! +2 bonus to total!");
-//     total += 2;
-// }
-
-// if ((roll1 == roll2) && (roll2 == roll3))
-// {
-//     Console.WriteLine("You rolled triples! + 6 bonus to total!");
-//     total += 6;
-// }
-//     // To improve the readability of your code, update the second if statement as follows
-// if (total >= 15)
-//         // {} a code block
-// {
-//     Console.WriteLine("You win!");
-// }
-
-// if (total < 15)
-// {
-//     Console.WriteLine("Sorry, you lose.");
-// }
-
-
-// if ((roll1 == roll2) || (roll2 == roll3) || (roll1 == roll3))
-// {
-//     Console.WriteLine("You rolled doubles! +2 bonus to total!");
-//     total += 2;
-// }
-
-// if ((roll1 == roll2) && (roll2 == roll3))
-// {
-//     Console.WriteLine("You rolled triples! + 6 bonus to total!");
-//     total += 6;
-// }
-//     // To improve the readability of your code, update the second if statement as follows
-// if (total >= 15)
-//         // {} a code block
-// {
-//     Console.WriteLine("You win!");
-// }
-
-// else
-// {
-//     Console.WriteLine("Sorry, you lose.");
-// }
-
-// Modify the code to remove the stacking bonus for doubles and triples using nesting
-
+// // Modify the code to remove the stacking bonus for doubles and triples using nesting
 if ((roll1 == roll2) || (roll2 == roll3) || (roll1 == roll3))
 {
     if ((roll1 == roll2) && (roll2 == roll3))
@@ -114,13 +31,24 @@ if ((roll1 == roll2) || (roll2 == roll3) || (roll1 == roll3))
         Console.WriteLine("You rolled doubles!  +2 bonus to total!");
         total += 2;
     }
+    
+    Console.WriteLine($"Your total including the bonus: {total}");
+}
+// Use if, else, and else if statements to give a prize instead of a win-lose message
+if (total >= 16)
+{
+    Console.WriteLine("You win a new car!");
+}
+else if (total >= 10)
+{
+    Console.WriteLine("You win a new laptop!");
+}
+else if (total == 7)
+{
+    Console.WriteLine("You win a trip for two!");
+}
+else
+{
+    Console.WriteLine("You win a kitten!");
 }
 
-if (total >= 15)
-{
-    Console.WriteLine("You win!");
-}
-else 
-{
-    Console.WriteLine("Sorry, you lose.");
-}
