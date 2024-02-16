@@ -53,3 +53,4 @@ else
 }
 
 ApplyBusinessRules.PrintToConsole();
+ArraysAndForeach.PrintToConsole();

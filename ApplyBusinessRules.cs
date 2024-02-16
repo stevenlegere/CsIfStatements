@@ -4,7 +4,7 @@ public class ApplyBusinessRules
 {
     public static void PrintToConsole()
     {
-Console.WriteLine("Printing from ApplyBusinessRules.cs");
+
 
 // https://learn.microsoft.com/en-us/training/modules/csharp-if-elseif-else/4-challenge
 
@@ -14,7 +14,7 @@ Random random = new Random();
 int daysUntilExpiration = random.Next(12);
 int discountPercentage = 0;
 
-daysUntilExpiration = 11;
+//daysUntilExpiration = 1;
 
 if (daysUntilExpiration == 0)
 {
@@ -42,6 +42,7 @@ if (discountPercentage > 0)
     }
 }
 
+// My attempt at the challenge
 // //Console.WriteLine(daysUntilExpiration);
 // Console.WriteLine(discountPercentage);
 
