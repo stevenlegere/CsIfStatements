@@ -1,0 +1,14 @@
+/Users/stevenlegere/Documents/Development/Repositories/PracticeCode/stevesPlayground/CsIfStatements/CsIfStatements/ArraysAndForeach/bin/Debug/net7.0/ArraysAndForeach
+/Users/stevenlegere/Documents/Development/Repositories/PracticeCode/stevesPlayground/CsIfStatements/CsIfStatements/ArraysAndForeach/bin/Debug/net7.0/ArraysAndForeach.deps.json
+/Users/stevenlegere/Documents/Development/Repositories/PracticeCode/stevesPlayground/CsIfStatements/CsIfStatements/ArraysAndForeach/bin/Debug/net7.0/ArraysAndForeach.runtimeconfig.json
+/Users/stevenlegere/Documents/Development/Repositories/PracticeCode/stevesPlayground/CsIfStatements/CsIfStatements/ArraysAndForeach/bin/Debug/net7.0/ArraysAndForeach.dll
+/Users/stevenlegere/Documents/Development/Repositories/PracticeCode/stevesPlayground/CsIfStatements/CsIfStatements/ArraysAndForeach/bin/Debug/net7.0/ArraysAndForeach.pdb
+/Users/stevenlegere/Documents/Development/Repositories/PracticeCode/stevesPlayground/CsIfStatements/CsIfStatements/ArraysAndForeach/obj/Debug/net7.0/ArraysAndForeach.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stevenlegere/Documents/Development/Repositories/PracticeCode/stevesPlayground/CsIfStatements/CsIfStatements/ArraysAndForeach/obj/Debug/net7.0/ArraysAndForeach.AssemblyInfoInputs.cache
+/Users/stevenlegere/Documents/Development/Repositories/PracticeCode/stevesPlayground/CsIfStatements/CsIfStatements/ArraysAndForeach/obj/Debug/net7.0/ArraysAndForeach.AssemblyInfo.cs
+/Users/stevenlegere/Documents/Development/Repositories/PracticeCode/stevesPlayground/CsIfStatements/CsIfStatements/ArraysAndForeach/obj/Debug/net7.0/ArraysAndForeach.csproj.CoreCompileInputs.cache
+/Users/stevenlegere/Documents/Development/Repositories/PracticeCode/stevesPlayground/CsIfStatements/CsIfStatements/ArraysAndForeach/obj/Debug/net7.0/ArraysAndForeach.dll
+/Users/stevenlegere/Documents/Development/Repositories/PracticeCode/stevesPlayground/CsIfStatements/CsIfStatements/ArraysAndForeach/obj/Debug/net7.0/refint/ArraysAndForeach.dll
+/Users/stevenlegere/Documents/Development/Repositories/PracticeCode/stevesPlayground/CsIfStatements/CsIfStatements/ArraysAndForeach/obj/Debug/net7.0/ArraysAndForeach.pdb
+/Users/stevenlegere/Documents/Development/Repositories/PracticeCode/stevesPlayground/CsIfStatements/CsIfStatements/ArraysAndForeach/obj/Debug/net7.0/ArraysAndForeach.genruntimeconfig.cache
+/Users/stevenlegere/Documents/Development/Repositories/PracticeCode/stevesPlayground/CsIfStatements/CsIfStatements/ArraysAndForeach/obj/Debug/net7.0/ref/ArraysAndForeach.dll
