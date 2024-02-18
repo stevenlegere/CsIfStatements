@@ -22,3 +22,4 @@ string[] fraudulentOrderIDs = { "A123", "B456", "C789" };
     fraudulentOrderIDs[0] = "F000";
     Console.WriteLine($"Reassign First: {fraudulentOrderIDs[0]}");
 
+// Use the Length property of an array
