@@ -90,6 +90,15 @@ string[] fraudulentOrderIDs = { "A123", "B456", "C789" };
     Console.WriteLine($"Reassign First: {fraudulentOrderIDs[0]}");
 
 // Use the Length property of an array
+  // When the length of the array is unknown, use the Length property to determine the number of elements in the array
+Console.WriteLine($"There are {fraudulentOrderIDs.Length} fraudulent orders to process.");
+
+// Implement the foreach statement
+string[] names = { "Rowena", "Robin", "Bao" };
+foreach (string name in names)
+{
+    Console.WriteLine(name); // will execute once for each element of the names array.
+}
 }
 }
 
