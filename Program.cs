@@ -1,6 +1,11 @@
 ﻿// create a new instance of the System.Random class and store a reference to the object in a variable named dice
-using System.Security.AccessControl;
+using System;
 
+class Program
+{
+
+    static void Main(string[] args)
+    {
 Random dice = new Random();
 
 // call the Random.Next() method on the dice object three times, providing both the lower and upper bounds to restrict the possible values between 1 and 6 for each roll
@@ -52,5 +57,43 @@ else
     Console.WriteLine("You win a kitten!");
 }
 
-ApplyBusinessRules.PrintToConsole();
-ArraysAndForeach.PrintToConsole();
+ArraysAndForeach arraysAndForeach = new ArraysAndForeach();
+arraysAndForeach.PrintToConsole();
+    }
+}
+
+public class ArraysAndForeach
+{
+    public void PrintToConsole()
+
+{
+// new operator creates a new instance of the array
+// string[] fraudulentOrderIDs = new string[3];
+//         // First set of square brankets [] declares the variable as an array
+//         // Second set of square brackets [] specifies the number of elements in the array
+//     fraudulentOrderIDs[0] = "A123";
+//     fraudulentOrderIDs[1] = "B456";
+//     fraudulentOrderIDs[2] = "C789";
+    // fraudulentOrderIDs[3] = "D000"; // Intentional error
+    // Assign Order ID values to your array
+
+// Initialize an array { } with values
+string[] fraudulentOrderIDs = { "A123", "B456", "C789" };
+
+    // Access the elements in the array
+    Console.WriteLine($"First: {fraudulentOrderIDs[0]}");
+    Console.WriteLine($"Second: {fraudulentOrderIDs[1]}");
+    Console.WriteLine($"Third: {fraudulentOrderIDs[2]}");
+
+    // Reassign the value of an array
+    fraudulentOrderIDs[0] = "F000";
+    Console.WriteLine($"Reassign First: {fraudulentOrderIDs[0]}");
+
+// Use the Length property of an array
+}
+}
+
+
+
+// ApplyBusinessRules.PrintToConsole();
+
