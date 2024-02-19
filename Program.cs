@@ -99,6 +99,31 @@ foreach (string name in names)
 {
     Console.WriteLine(name); // will execute once for each element of the names array.
 }
+
+// Create and initialize an array of int
+int[] inventory = { 200, 450, 700, 175, 250 };
+// Add a variable to sum the value of each element in the array
+int sum = 0;
+int bin = 0;
+// Add a foreach statement to iterate through the array
+foreach (int items in inventory)
+{
+sum += items;
+bin++;
+Console.WriteLine($"Bin {bin} = {items} items (Running total: {sum})");
+// Bin 1 = 200 items (Running total: 200)
+// Bin 2 = 450 items (Running total: 650)
+// Bin 3 = 700 items (Running total: 1350)
+// Bin 4 = 175 items (Running total: 1525)
+// Bin 5 = 250 items (Running total: 1775)
+}
+// Display the sum of the array
+Console.WriteLine($"We have {sum} items in inventory.");
+// We have 1775 items in inventory.
+
+
+
+
 }
 }
 
